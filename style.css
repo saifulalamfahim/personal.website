@@ -8,7 +8,7 @@ ul{
     padding: 0;
     background-color: white;
     top: 0;
-    position: sticky;
+    
     overflow: hidden;
 }
 li{
@@ -164,6 +164,21 @@ h5{
 }
 h4{
     text-align: center;
+}
+.change-the-contact-section-second img{
+    width: 50px;
+    height: 50px;
+   
+}
+#image-first{
+    margin-left: 41%;
+    float: left;
+}
+#image-second{
+    margin-left: 3%;
+}
+#image-third{
+    margin-left: 3%;
 }
 
 
